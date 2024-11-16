@@ -40,7 +40,3 @@ This Python script automates the process of clicking through LGHUB (Logitech G H
 - The script only supports Full HD (1920x1080) resolution for the LGHUB window.
 - The script assumes that the positions of the buttons (Settings, Control Settings, Profile Switch) and the first game on the main page are fixed. Adjustments may be needed if your window layout differs.
 - If you need to adjust the positions of the buttons, modify the corresponding coordinates in the script.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
